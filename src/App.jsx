@@ -25,7 +25,7 @@ const BannerData = {
   title2: "Air Solo Bass",
   title3: "Winter Sale",
   title4:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque reiciendis",
+    "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
   bgColor: "#f42c37",
 };
 
