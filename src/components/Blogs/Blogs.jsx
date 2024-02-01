@@ -19,7 +19,7 @@ const BlogData = [
     title: "How to choose perfect gadget",
     subtitle:
       "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
-    published: "Jan 20, 2024 by Satya",
+    published: "Jan 20, 2024 by Amit",
     image: Img2,
     aosDelay: "200",
   },
