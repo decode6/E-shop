@@ -10,7 +10,7 @@ const BlogData = [
   {
     title: "How to choose perfect smartwatch",
     subtitle:
-      "minima facere deserunt vero illo beatae deleniti eius dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
+      "minima facere deserunt vero illo beatae deleniti eiu dolores consequuntur, eligendi corporis maiores molestiae laudantium. Porro?",
     published: "Jan 20, 2024 by Dilshad",
     image: Img1,
     aosDelay: "0",
